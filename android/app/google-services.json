@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "686461053134",
+    "project_id": "jooselogin-f5f65",
+    "storage_bucket": "jooselogin-f5f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686461053134:android:fcd7f3e7b1e4d23f40c89f",
+        "android_client_info": {
+          "package_name": "com.voicene.joosecustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686461053134-75mr54ur7f31r9onh7amo0oog555ejtn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voicene.joosecustomer",
+            "certificate_hash": "20581b930df355e3ee3562f78ef6834a1b6fe98b"
+          }
+        },
+        {
+          "client_id": "686461053134-n589lpi7qihn5sv1r8car2mes8ouipbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxHIH8mCCd6K5V9trLf7dzQ5UWGUmMhc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686461053134-n589lpi7qihn5sv1r8car2mes8ouipbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "686461053134-jugpvm7tc5lbmh0vmfjjbm7cg2ud34k7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.joosecustomer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

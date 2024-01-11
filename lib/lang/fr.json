@@ -1,0 +1,56 @@
+{
+  "SETTINGS":"PARAMÈTRES",
+  "Language":"Langue",
+  "notif": "Notifications",
+  "cl": "Annuler",
+  "Allowallpushnotifications":"Allow all push Notifications?",
+  "change_language": "FRENCH",
+  "Dashboard": "ACCUEIL",
+  "New Purchase": "Nouvel Achat",
+  "Purchase History": "Historique d'achat",
+  "Your rewards": "Vos Récompenses",
+  "Menu": "MENU",
+  "Rewards": "Récompenses",
+  "Message": "Messagerie",
+  "Your Profile":  "Votre Profil",
+  "Settings":  "Paramètres",
+  "Logout":  "Se déconnecter",
+  "No Purchases found here":   "Aucuns achats trouvés",
+  "Profile": "PROFIL",
+  "Edit Profile": "Éditer votre profil",
+  "Change Password":  "Changer mot de passe",
+  "Are you sure want to logout?": "Voulez-vous vraiment vous déconnecter?",
+  "PURCHASE HISTORY": "HISTORIQUE DES ACHATS",
+  "Purchase":  "ACHAT",
+  "Redeem": "RACHAT",
+  "Scan": "SCANNER",
+  "Quantity" : "Quantité",
+
+
+  "No Notifiation found Here": "Aucunes Notifications Trouvées",
+  "MY REWARDS":"MES RÉCOMPENSES",
+  "CURRENT POINT": "POINTS ACTUELS",
+  "No Message found Here":"Aucun Messages Trouvé",
+  "Full Name": "Nom Complet",
+  "Mobile Number":  " Numéro Cellulaire",
+  "Date of Birth": "Date de Naissance",
+  "Save Changes": " Sauvegarder les changements",
+  "Current Password":   "Mot de Passe Actuel",
+  "New Password": "Nouveau Mot de Passe",
+  "Confirm Password": "Confirmer le Mot de Passe",
+  "MESSAGE": "MESSAGERIE",
+
+  "No internet connection": "Aucune Connection Internet",
+  "Profile update Successfully!": "Mise à jour de Profil Réussie",
+  "please fill date of birth field": "Remplir la case Date de Naissance svp",
+  "Password change successfully!": "Changement de Mot de Passe Réussi",
+
+  "Enter your name": "Entrez votre nom",
+  "Enter your mobile number": "Entrez votre numéro de téléphone mobile",
+  "Message from Admin": "Message de l’Admin"
+
+
+
+
+
+}

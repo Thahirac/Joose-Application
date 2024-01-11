@@ -1,0 +1,53 @@
+{
+  "Allowallpushnotifications":"Allow all push Notifications?",
+  "SETTINGS":"SETTINGS",
+  "Language":"LANGUAGE",
+  "notif": "Notifications",
+  "cl": "Cancel",
+  "change_language": "ENGLISH",
+  "Dashboard": "DASH BOARD",
+  "New Purchase": "New Purchase",
+  "Purchase History": "Purchase History",
+  "Your rewards": "Your rewards",
+  "Menu": "MENU",
+  "Rewards": "Rewards",
+  "Message": "Message",
+  "Your Profile":  "Your Profile",
+  "Settings":  "Settings",
+  "Logout":  "Logout",
+  "No Purchases found here":   "No Purchases found here",
+  "Profile": "PROFILE",
+  "Edit Profile": "Edit Profile",
+  "Change Password":  "Change Password",
+  "Are you sure want to logout?": "Are you sure want to logout?",
+  "PURCHASE HISTORY": "PURCHASE HISTORY",
+  "Purchase":  "PURCHASE",
+  "Redeem": "REDEEM",
+  "Scan": "SCAN",
+  "Quantity" : "Quantity",
+
+  "No Notifiation found Here": "No Notifiation found Here",
+  "MY REWARDS":"MY REWARDS",
+  "CURRENT POINT": "CURRENT POINTS",
+  "No Message found Here":"No Message found Here",
+  "Full Name": "Full Name",
+  "Mobile Number":  "Mobile Number",
+  "Date of Birth": "Date of Birth",
+  "Save Changes": "Save Changes",
+  "Current Password":   "Current Password",
+  "New Password": "New Password",
+  "Confirm Password": "Confirm Password",
+  "MESSAGE": "MESSAGE",
+
+  "No internet connection": "No internet connection",
+ "Profile update Successfully!": "Profile update Successfully!",
+  "please fill date of birth field": "please fill date of birth field",
+  "Password change successfully!": "Password change successfully!",
+
+
+  "Enter your name": "Enter your name",
+  "Enter your mobile number": "Enter your mobile number",
+  "Message from Admin": "Message from Admin"
+
+
+}
